@@ -1,4 +1,5 @@
 // Alterando a Data 01/02/2024
+//Autor: Sósthenes Oliveira Lima
 
 struct ContaCorrenteStruct {
     var saldo = 0.0
